@@ -1,0 +1,16 @@
+CREAR .jar
+==========
+
+abrir terminal en la ruta donde esta el .class (dentro
+del directorio out/production).
+El .jar se crea con el siguiente comando:
+
+    jar cmf manifest.txt HelloJar.jar HelloMain.class
+
+
+IMPORTANTE crear un manifest con la siguiente info:
+
+    Main-Class: HelloMain
+    //eof
+
+

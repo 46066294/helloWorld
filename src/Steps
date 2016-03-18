@@ -14,3 +14,6 @@ IMPORTANTE crear un manifest con la siguiente info:
     //eof
 
 
+En el terminal ejecutar el siguiente comando para lanzar el programa:
+
+    java -jar HelloJar.jar
